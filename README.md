@@ -1,6 +1,6 @@
 |  #  |                    Название задачи                    |                          Ссылка на задачу                          | Результат |
 | --- | ----------------------------------------------------- | ------------------------------------------------------------------ |-----------|
-|  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |           |
+|  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |   пропущенна точка с запятой        |
 |  2  | Объясните значение "this"                             | https://learn.javascript.ru/task/why-this                          |           |
 |  3  | Использование "this" в литерале объекта               | https://learn.javascript.ru/task/object-property-this              |           |
 |  4  | Создайте калькулятор                                  | https://learn.javascript.ru/task/calculator                        |           |
