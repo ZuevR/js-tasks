@@ -1,3 +1,5 @@
+<h2 style="text-align: center">Задачи с сайта <a href="https://learn.javascript.ru"><strong>learn.javascript.ru </strong></a></h2>
+
 |  #  |                    Название задачи                    |                          Ссылка на задачу                          | Результат |
 | --- | ----------------------------------------------------- | ------------------------------------------------------------------ |-----------|
 |  1  | Проверка синтаксиса                                   | https://learn.javascript.ru/task/check-syntax                      |           |
@@ -48,3 +50,8 @@
 | 46  | Свойство функции после bind                           | https://learn.javascript.ru/task/function-property-after-bind      |           |
 | 47  | Исправьте функцию, теряющую "this"                    | https://learn.javascript.ru/task/question-use-bind                 |           |
 | 48  | Использование частично применённой функции для логина | https://learn.javascript.ru/task/ask-partial                       |           |
+| 49  | Перепишите класс                                      | https://learn.javascript.ru/task/rewrite-to-class                  |           |
+| 50  | Ошибка создания экземпляра класса                     | https://learn.javascript.ru/task/class-constructor-error           |           |
+| 51  | Улучшенные часы                                       | https://learn.javascript.ru/task/clock-class-extended              |           |
+| 52  | Класс расширяет объект?                               | https://learn.javascript.ru/task/class-extend-object               |           |
+| 53  | Странный instanceof                                   | https://learn.javascript.ru/task/strange-instanceof                |           |
